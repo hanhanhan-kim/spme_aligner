@@ -20,7 +20,7 @@ In addition to access to a 3D-printer:
 
 ### Assembly
 
-Print one of each [`.stl`](docs/STLs) file and assemble like so:
+Print one of each [`.stl`](/STLs) file and assemble like so:
 
 ![photo](docs/photo.jpg)
 
