@@ -24,6 +24,8 @@ Print one of each [`.stl`](/STLs) file and assemble like so:
 
 ![photo](docs/photo.jpg)
 
+The jig should press-fit snugly against the posts that would otherwise secure the autoinjector ([Shimadzu AOC-20 Series](https://www.ssi.shimadzu.com/products/gas-chromatography/aoc-series.html)).
+
 The SPME needle should be able to reach the very bottom of the GC inlet:
 
 ![zoomed_photo](docs/zoomed_photo.jpg)
